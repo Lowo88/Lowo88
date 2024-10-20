@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lowo88
 - 👀 I’m interested in ... learning Rust & Java script.
-- 🌱 I’m currently learning ...A little of Rust 
+- 🌱 I’m currently learning ...Python! 
 - 💞️ I’m looking to collaborate on ...Juno network secret network just to name a few. 
 - 📫 How to reach me ... On X @lowo88.stars
 
